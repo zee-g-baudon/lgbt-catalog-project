@@ -22,9 +22,9 @@ Due to confidentiality, the CSV data files used in this project are **not public
 To replicate the results, you will need to provide your own data files that match the expected structure:
 
 data/
-├── catalog_by_country.csv # Catalog data by country and provider
-├── popularity_2024_2025.csv # Title popularity over time
-└── provider_list.csv # List of SVOD streaming providers
+- catalog_by_country.csv # Catalog data by country and provider
+- popularity_2024_2025.csv # Title popularity over time
+- provider_list.csv # List of SVOD streaming providers
 
 ## 📦 Required R Packages
 
